@@ -6,3 +6,8 @@ https://ollama.com/download
 
 #### ollama models
 https://ollama.com/library
+
+#### run ollama
+```shell
+ollama run llama2:13b
+```
